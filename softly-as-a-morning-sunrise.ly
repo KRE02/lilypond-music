@@ -43,8 +43,8 @@ all = {
       }
     }
     b2 es,2 |
-    r8 c' d[ c] d4 c |
-    c2 e,( |
+    r8 b' c[ b] c4 b |
+    b2 e,( |
     \break
     \tuplet 3/2 { e4) e f }
     \tuplet 3/2 { g4 as b } |
